@@ -1,19 +1,28 @@
-# In Falsus Demo Archive
+<center>
 
-记录已被下架的 In Falsus 试玩版。
+# In Falsus Demo Archive ![](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
----
+### [English](README.md) | [简体中文](README_zh-CN.md)
 
-### 说明
+> Archive the delisted In Falsus Demo
+</center>
 
-In Falsus 试玩版存在各种 Steam API 校验，因此在试玩版下架以后，未经处理的游戏本体无法正常启动。使用仓库内的 DLL 以绕过校验。
+> [!WARNING]
+> This repository violates the Terms of Service of Lowiro Limited.
 
-### 快速开始
+> [!CAUTION]
+> This repository is for study and research purposes only. The author assumes no responsibility for any consequences caused by misuse.
 
-- 在 [Releases](https://github.com/himlijnn/in_falsus_demo_archive/releases) 下载最新试玩版游戏本体
-- 使用仓库内的 DLL 文件替换游戏本体对应文件
-- In Falsus，启动！
+### Features
 
-### 致谢
+The In Falsus Demo contains various Steam API checks, so after the demo was delisted, the unmodified game cannot start normally. Using the DLL included in this repository bypasses these checks.
+
+### Quick Start
+
+- Download the latest demo from [Releases](https://github.com/himlijnn/InFalsusDemoArchive/releases)
+- Replace the corresponding files in the game directory with the DLL files from this repository
+- In Falsus, launch!
+
+### Thanks
 
 - [goldberg_emulator](https://gitlab.com/Mr_Goldberg/goldberg_emulator) - Goldberg Steam Emulator
