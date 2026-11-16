@@ -1,11 +1,12 @@
-<center>
+<div align="center">
 
 # In Falsus Demo Archive ![](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
 ### [English](README.md) | [简体中文](README_zh-CN.md)
 
 > Archive the delisted In Falsus Demo
-</center>
+
+</div>
 
 > [!WARNING]
 > This repository violates the Terms of Service of Lowiro Limited.

@@ -1,11 +1,12 @@
-<center>
+<div align="center">
 
 # In Falsus Demo Archive ![](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
 ### [English](README.md) | [简体中文](README_zh-CN.md)
 
 > 存档已被下架的 In Falsus Demo
-</center>
+
+</div>
 
 > [!WARNING]
 > 本仓库违反了 Lowiro Limited 的服务条款。
